@@ -8,8 +8,7 @@ You can contact me by [telegram](https://t.me/Khode_Fly).
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/KhodeFly)
 
 ## 🔧 My Favorite Technologies
-
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![](https://skillicons.dev/icons?i=ruby,linux)
 
 ## 📊 My GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Khode-Fly&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
